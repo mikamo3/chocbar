@@ -1,0 +1,9 @@
+[submodule "pcb/lib/foostan"]
+	path = pcb/lib/foostan
+	url = https://github.com/foostan/kbd
+[submodule "pcb/lib/keebio"]
+	path = pcb/lib/keebio
+	url = https://github.com/keebio/Keebio-Parts.pretty
+[submodule "pcb/lib/swanmatch"]
+	path = pcb/lib/swanmatch
+	url = https://github.com/swanmatch/keyboard.pretty.git
