@@ -7,3 +7,6 @@
 [submodule "pcb/lib/swanmatch"]
 	path = pcb/lib/swanmatch
 	url = https://github.com/swanmatch/keyboard.pretty.git
+[submodule "pcb/lib/mikamo3"]
+	path = pcb/lib/mikamo3
+	url = https://github.com/mikamo3/kicad_lib.git
